@@ -82,7 +82,6 @@ openpyxl==3.0.10
 opt-einsum==3.3.0
 outcome==1.2.0
 packaging==22.0
-pandas==1.4.2
 pefile==2021.9.3
 proto-plus==1.22.2
 protobuf==4.23.3
